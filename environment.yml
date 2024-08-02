@@ -1,0 +1,11 @@
+name: medusa
+channels:
+  - bioconda
+  - conda-forge
+  - defaults
+dependencies:
+  - python
+  - biopython
+  - ncbi-acc-download
+
+
